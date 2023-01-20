@@ -1,5 +1,10 @@
 # LGFX_Simulator_SDL
 PC simulator project for LovyanGFX on linux with SDL
+
+![](https://github.com/Forairaaaaa/Stupinake/blob/main/Pics/Stupinake2.png?raw=true)
+
+![](https://github.com/Forairaaaaa/Stupinake/blob/main/Pics/Stupinake1.png?raw=true)
+
 ## Usage
 
 ### Get the PC project
