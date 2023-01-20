@@ -1,5 +1,5 @@
-# LGFX_Simulator_SDL
-PC simulator project for LovyanGFX on linux with SDL
+# Stupinake
+Simple stupid snake game based on LovyanGFX and SDL
 
 ![](https://github.com/Forairaaaaa/Stupinake/blob/main/Pics/Stupinake2.png?raw=true)
 
@@ -12,7 +12,7 @@ PC simulator project for LovyanGFX on linux with SDL
 Clone the PC project and the related sub modules:
 
 ```
-git clone --recursive https://github.com/Forairaaaaa/LGFX_Simulator_SDL.git
+git clone --recursive https://github.com/Forairaaaaa/Stupinake.git
 ```
 
 ### Install SDL
